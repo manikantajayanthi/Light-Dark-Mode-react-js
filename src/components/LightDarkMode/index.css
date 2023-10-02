@@ -1,0 +1,49 @@
+.bg-container-dark {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: none;
+}
+
+.bg-container-light {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: #000000;
+}
+
+.main-heading-dark {
+  color: #ffffff;
+}
+
+.main-heading-light {
+  color: #000000;
+}
+
+.button-dark {
+  color: #000000;
+  background-color: #ffffff;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button-light {
+  color: #000000;
+  background-color: #ffffff;
+  height: 30px;
+  width: 100px;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 5px;
+}
